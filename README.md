@@ -1,3 +1,5 @@
+## Projeto tosco de exemplo para composição de serviços ##
+
 O objetivo desse projeto tosco é mostrar como um midleware pode comunicar com dois serviços distintos em sequencia enviando um input para o primeiro serviços, recebendo a resposta e enviado essa resposta para o serviço 2 que irá somar 1 no input e devolver para o midleware que irá exibir o valor - De maneira tosca é uma composição de serviços.
 
 
